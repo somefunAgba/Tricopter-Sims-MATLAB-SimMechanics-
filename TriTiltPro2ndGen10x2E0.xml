@@ -1,0 +1,3093 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimMechanicsImportXML version="1.0" xmlns="urn:mathworks:simmechanics:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="07/10/15||03:09:39" using="SimMechanics Link Version 4.6" from="SolidWorks 21.0.0"/>
+<ModelUnits mass="kilogram" length="meter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="ASSY_GO_TRITILT" uid="ASSY_GO_TRITILT" version="371">
+<AssemblyFile name="ASSY_GO_TRITILT.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="yaw-1-solid1-1" uid="yaw-1-solid1-1" grounded="true" entityUid="yaw-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="trem1-2-solid1-1" uid="trem1-2-solid1-1" grounded="true" entityUid="trem1-2-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="tubocarbono-1-solid1-1" uid="tubocarbono-1-solid1-1" grounded="true" entityUid="tubocarbono-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body31-1" uid="Body31-1" grounded="true" entityUid="Body31*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="torque nut 01_iso-6-solid1-1" uid="torque nut 01_iso-6-solid1-1" grounded="true" entityUid="torque nut 01_iso-6-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body29-1" uid="Body29-1" grounded="true" entityUid="Body29*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="holder_1-2-solid1-1" uid="holder_1-2-solid1-1" grounded="true" entityUid="holder_1-2-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body37-1" uid="Body37-1" grounded="true" entityUid="Body37*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="torque nut 01_iso-5-solid1-1" uid="torque nut 01_iso-5-solid1-1" grounded="true" entityUid="torque nut 01_iso-5-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="rotor-1-solid1-1" uid="rotor-1-solid1-1" grounded="true" entityUid="rotor-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body38-1" uid="Body38-1" grounded="true" entityUid="Body38*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="holder_1-1-solid1-1" uid="holder_1-1-solid1-1" grounded="true" entityUid="holder_1-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Part6-1-solid1-1" uid="Part6-1-solid1-1" grounded="true" entityUid="Part6-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-10-solid1-1" uid="plain washer 10669 type nl_iso-10-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-10-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="tubo250-2-solid1-1" uid="tubo250-2-solid1-1" grounded="true" entityUid="tubo250-2-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="estator-4-solid2-1" uid="estator-4-solid2-1" grounded="true" entityUid="estator-4-solid2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body84-1" uid="Body84-1" grounded="true" entityUid="Body84*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body70-1" uid="Body70-1" grounded="true" entityUid="Body70*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="tubo230_tail-1-solid1-1" uid="tubo230_tail-1-solid1-1" grounded="true" entityUid="tubo230_tail-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="spinner-3-solid1-1" uid="spinner-3-solid1-1" entityUid="spinner-3-solid1*:*Default">
+<Transform>
+<Rotation>0.52624196153712799 -0.068741470651036404 -0.84755177312674457 0.12952670621051929 0.99157593374297548 1.9671025401936092e-016 0.84041194083366622 -0.10978058951599264 0.53071272065940844</Rotation>
+<Translation>-0.25183572804080689 -0.0014992176245830248 -0.1388216642879197</Translation>
+</Transform>
+</Instance>
+<Instance name="tubocarbono-6-solid1-1" uid="tubocarbono-6-solid1-1" grounded="true" entityUid="tubocarbono-6-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body74-1" uid="Body74-1" grounded="true" entityUid="Body74*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-3-solid1-1" uid="socket head cap screw_iso-3-solid1-1" grounded="true" entityUid="socket head cap screw_iso-3-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="helice gws-3-solid1-1" uid="helice gws-3-solid1-1" entityUid="helice gws-3-solid1*:*Default">
+<Transform>
+<Rotation>-0.99101773560032425 0.12945379039603672 -0.033549424401990477 0.12952670621051951 0.99157593374297548 1.3045120539345589e-015 0.033266801827943247 -0.0043455464380473628 -0.99943705961020624</Rotation>
+<Translation>-0.011109705081935551 -0.0011584758876438974 -0.59546148936606669</Translation>
+</Transform>
+</Instance>
+<Instance name="estator-4-solid1-1" uid="estator-4-solid1-1" grounded="true" entityUid="estator-4-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body68-1" uid="Body68-1" grounded="true" entityUid="Body68*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="estator-3-solid2-1" uid="estator-3-solid2-1" entityUid="estator-3-solid2*:*Default">
+<Transform>
+<Rotation>0.99157593374297559 -0.12952670621051859 4.8815526069505035e-016 0.12952670621051859 0.99157593374297559 1.3342516467191354e-015 -6.5686422949073035e-016 -1.2597826794064627e-015 1</Rotation>
+<Translation>0.0011181976595043936 7.2724548069806095e-005 0</Translation>
+</Transform>
+</Instance>
+<Instance name="spinner-1-solid1-1" uid="spinner-1-solid1-1" grounded="true" entityUid="spinner-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="estator-3-solid1-1" uid="estator-3-solid1-1" entityUid="estator-3-solid1*:*Default">
+<Transform>
+<Rotation>0.52624196153712832 -0.068741470651036196 -0.84755177312674412 0.12952670621051912 0.99157593374297548 4.163336342344337e-016 0.84041194083366599 -0.10978058951599258 0.53071272065940878</Rotation>
+<Translation>-0.25183572804080717 7.2724548069638085e-005 -0.13882166428791987</Translation>
+</Transform>
+</Instance>
+<Instance name="arm-1-solid1-1" uid="arm-1-solid1-1" entityUid="arm-1-solid1*:*Default">
+<Transform>
+<Rotation>0.99157593374297559 -0.12952670621051865 -3.9888284585422539e-016 0.12952670621051865 0.99157593374297559 1.2584301003322081e-015 2.3252232443975543e-016 -1.2994949829745515e-015 1</Rotation>
+<Translation>0.0011181976595043927 7.2724548069791188e-005 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body87-1" uid="Body87-1" grounded="true" entityUid="Body87*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-2-solid1-1" uid="socket head cap screw_iso-2-solid1-1" grounded="true" entityUid="socket head cap screw_iso-2-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="estator-1-solid2-1" uid="estator-1-solid2-1" grounded="true" entityUid="estator-1-solid2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="trem1-3-solid1-1" uid="trem1-3-solid1-1" grounded="true" entityUid="trem1-3-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="espaçador-1-solid1-1" uid="espaçador-1-solid1-1" grounded="true" entityUid="espaçador-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body85-1" uid="Body85-1" grounded="true" entityUid="Body85*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="tubo250-1-solid1-1" uid="tubo250-1-solid1-1" grounded="true" entityUid="tubo250-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="peça_gimbal3-1-solid1-1" uid="peça_gimbal3-1-solid1-1" grounded="true" entityUid="peça_gimbal3-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="estator-1-solid1-1" uid="estator-1-solid1-1" grounded="true" entityUid="estator-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body94-1" uid="Body94-1" grounded="true" entityUid="Body94*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="helice gws-1-solid1-1" uid="helice gws-1-solid1-1" entityUid="helice gws-1-solid1*:*Default">
+<Transform>
+<Rotation>-0.40483655458419476 0 -0.91438906602845949 0 1 0 0.91438906602845949 0 -0.40483655458419476</Rotation>
+<Translation>-0.23602312893343302 0 0.46441425452435497</Translation>
+</Transform>
+</Instance>
+<Instance name="zippy1800-1-solid1-1" uid="zippy1800-1-solid1-1" grounded="true" entityUid="zippy1800-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body110-1" uid="Body110-1" grounded="true" entityUid="Body110*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="mobius-1-solid1-1" uid="mobius-1-solid1-1" grounded="true" entityUid="mobius-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="acess rolamento-2-solid1-1" uid="acess rolamento-2-solid1-1" grounded="true" entityUid="acess rolamento-2-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-1-solid1-1" uid="socket head cap screw_iso-1-solid1-1" grounded="true" entityUid="socket head cap screw_iso-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="acess rolamento-1-solid1-1" uid="acess rolamento-1-solid1-1" grounded="true" entityUid="acess rolamento-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="peça_gimbal2aaa-1-solid1-1" uid="peça_gimbal2aaa-1-solid1-1" grounded="true" entityUid="peça_gimbal2aaa-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="tubocarbono-5-solid1-1" uid="tubocarbono-5-solid1-1" grounded="true" entityUid="tubocarbono-5-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="peça_gimbal55-1-solid1-1" uid="peça_gimbal55-1-solid1-1" grounded="true" entityUid="peça_gimbal55-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body101-1" uid="Body101-1" grounded="true" entityUid="Body101*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body106-1" uid="Body106-1" grounded="true" entityUid="Body106*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="peça_gimbal2-1-solid1-1" uid="peça_gimbal2-1-solid1-1" grounded="true" entityUid="peça_gimbal2-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="torque nut 01_iso-4-solid1-1" uid="torque nut 01_iso-4-solid1-1" grounded="true" entityUid="torque nut 01_iso-4-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="esc-3-solid1-1" uid="esc-3-solid1-1" grounded="true" entityUid="esc-3-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-9-solid1-1" uid="plain washer 10669 type nl_iso-9-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-9-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Part6-2-solid1-1" uid="Part6-2-solid1-1" grounded="true" entityUid="Part6-2-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-7-solid1-1" uid="plain washer 10669 type nl_iso-7-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-7-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="trem1-4-solid1-1" uid="trem1-4-solid1-1" grounded="true" entityUid="trem1-4-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="torque nut 01_iso-1-solid1-1" uid="torque nut 01_iso-1-solid1-1" grounded="true" entityUid="torque nut 01_iso-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="holder_1-4-solid1-1" uid="holder_1-4-solid1-1" grounded="true" entityUid="holder_1-4-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body114-1" uid="Body114-1" grounded="true" entityUid="Body114*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="torque nut 01_iso-8-solid1-1" uid="torque nut 01_iso-8-solid1-1" grounded="true" entityUid="torque nut 01_iso-8-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-6-solid1-1" uid="plain washer 10669 type nl_iso-6-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-6-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-5-solid1-1" uid="plain washer 10669 type nl_iso-5-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-5-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body121-1" uid="Body121-1" grounded="true" entityUid="Body121*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-8-solid1-1" uid="plain washer 10669 type nl_iso-8-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-8-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="peça_gimbal3_2-1-solid1-1" uid="peça_gimbal3_2-1-solid1-1" grounded="true" entityUid="peça_gimbal3_2-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-1-solid1-1" uid="plain washer 10669 type nl_iso-1-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="servo_big40x20-1-solid1-1" uid="servo_big40x20-1-solid1-1" grounded="true" entityUid="servo_big40x20-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="helice gws-4-solid1-1" uid="helice gws-4-solid1-1" entityUid="helice gws-4-solid1*:*Default">
+<Transform>
+<Rotation>-0.17765406391414065 0 0.98409300047037762 0 1 0 -0.98409300047037762 0 -0.17765406391414065</Rotation>
+<Translation>0.16404466877296117 0 0.44787209632001335</Translation>
+</Transform>
+</Instance>
+<Instance name="peça_gimbal4_2-1-solid1-1" uid="peça_gimbal4_2-1-solid1-1" grounded="true" entityUid="peça_gimbal4_2-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="camfpv_1-1-solid1-1" uid="camfpv_1-1-solid1-1" grounded="true" entityUid="camfpv_1-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="sec_quad_gimbal2-1-solid1-1" uid="sec_quad_gimbal2-1-solid1-1" grounded="true" entityUid="sec_quad_gimbal2-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="receptor frsky-1-solid1-1" uid="receptor frsky-1-solid1-1" grounded="true" entityUid="receptor frsky-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-3-solid1-1" uid="plain washer 10669 type nl_iso-3-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-3-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-2-solid1-1" uid="plain washer 10669 type nl_iso-2-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-2-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="spinner-4-solid1-1" uid="spinner-4-solid1-1" grounded="true" entityUid="spinner-4-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="esc-1-solid1-1" uid="esc-1-solid1-1" grounded="true" entityUid="esc-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="veio 30-1-solid1-1" uid="veio 30-1-solid1-1" grounded="true" entityUid="veio 30-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="torque nut 01_iso-3-solid1-1" uid="torque nut 01_iso-3-solid1-1" grounded="true" entityUid="torque nut 01_iso-3-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="crius-1-solid1-1" uid="crius-1-solid1-1" grounded="true" entityUid="crius-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="servo arm-1-solid1-1" uid="servo arm-1-solid1-1" grounded="true" entityUid="servo arm-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body15-1" uid="Body15-1" grounded="true" entityUid="Body15*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="trem1-1-solid1-1" uid="trem1-1-solid1-1" grounded="true" entityUid="trem1-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="holder_1-3-solid1-1" uid="holder_1-3-solid1-1" grounded="true" entityUid="holder_1-3-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="torque nut 01_iso-2-solid1-1" uid="torque nut 01_iso-2-solid1-1" grounded="true" entityUid="torque nut 01_iso-2-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="rotor-4-solid1-1" uid="rotor-4-solid1-1" grounded="true" entityUid="rotor-4-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="esc-2-solid1-1" uid="esc-2-solid1-1" grounded="true" entityUid="esc-2-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="servo-1-solid1-1" uid="servo-1-solid1-1" grounded="true" entityUid="servo-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="sec_quad_gimbal-1-solid1-1" uid="sec_quad_gimbal-1-solid1-1" grounded="true" entityUid="sec_quad_gimbal-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="rotor-3-solid1-1" uid="rotor-3-solid1-1" entityUid="rotor-3-solid1*:*Default">
+<Transform>
+<Rotation>0.52624196153712843 -0.068741470651035794 -0.84755177312674435 0.12952670621051932 0.99157593374297548 1.0085608407765066e-015 0.84041194083366599 -0.10978058951599308 0.53071272065940878</Rotation>
+<Translation>-0.25183572804080706 -0.00064736328223577802 -0.13882166428792006</Translation>
+</Transform>
+</Instance>
+<Instance name="Body27-1" uid="Body27-1" grounded="true" entityUid="Body27*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body19-1" uid="Body19-1" grounded="true" entityUid="Body19*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body44-1" uid="Body44-1" grounded="true" entityUid="Body44*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="torque nut 01_iso-7-solid1-1" uid="torque nut 01_iso-7-solid1-1" grounded="true" entityUid="torque nut 01_iso-7-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-8-solid1-1" uid="socket head cap screw_iso-8-solid1-1" grounded="true" entityUid="socket head cap screw_iso-8-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="frame_down3-1-solid1-1" uid="frame_down3-1-solid1-1" grounded="true" entityUid="frame_down3-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="frame_up2-1-solid1-1" uid="frame_up2-1-solid1-1" grounded="true" entityUid="frame_up2-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body47-1" uid="Body47-1" grounded="true" entityUid="Body47*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-5-solid1-1" uid="socket head cap screw_iso-5-solid1-1" grounded="true" entityUid="socket head cap screw_iso-5-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="angular contact ball bearing_68_iso-3-solid1-1" uid="angular contact ball bearing_68_iso-3-solid1-1" grounded="true" entityUid="angular contact ball bearing_68_iso-3-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="angular contact ball bearing_68_iso-1-solid1-1" uid="angular contact ball bearing_68_iso-1-solid1-1" grounded="true" entityUid="angular contact ball bearing_68_iso-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-6-solid1-1" uid="socket head cap screw_iso-6-solid1-1" grounded="true" entityUid="socket head cap screw_iso-6-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="yaw-2-solid1-1" uid="yaw-2-solid1-1" entityUid="yaw-2-solid1*:*Default">
+<Transform>
+<Rotation>0.99157593374297559 -0.12952670621051859 4.8815526069505035e-016 0.12952670621051859 0.99157593374297559 1.3342516467191354e-015 -6.5686422949073035e-016 -1.2597826794064627e-015 1</Rotation>
+<Translation>0.0011181976595043936 7.2724548069806095e-005 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-16-solid1-1" uid="plain washer 10669 type nl_iso-16-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-16-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-7-solid1-1" uid="socket head cap screw_iso-7-solid1-1" grounded="true" entityUid="socket head cap screw_iso-7-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body50-1" uid="Body50-1" grounded="true" entityUid="Body50*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-15-solid1-1" uid="plain washer 10669 type nl_iso-15-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-15-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body55-1" uid="Body55-1" grounded="true" entityUid="Body55*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-14-solid1-1" uid="plain washer 10669 type nl_iso-14-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-14-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-13-solid1-1" uid="plain washer 10669 type nl_iso-13-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-13-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="hxt900-1-solid1-1" uid="hxt900-1-solid1-1" grounded="true" entityUid="hxt900-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="tubocarbono-4-solid1-1" uid="tubocarbono-4-solid1-1" grounded="true" entityUid="tubocarbono-4-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="socket head cap screw_iso-4-solid1-1" uid="socket head cap screw_iso-4-solid1-1" grounded="true" entityUid="socket head cap screw_iso-4-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="peça_gimbal4-1-solid1-1" uid="peça_gimbal4-1-solid1-1" grounded="true" entityUid="peça_gimbal4-1-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body58-1" uid="Body58-1" grounded="true" entityUid="Body58*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-12-solid1-1" uid="plain washer 10669 type nl_iso-12-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-12-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body66-1" uid="Body66-1" grounded="true" entityUid="Body66*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-11-solid1-1" uid="plain washer 10669 type nl_iso-11-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-11-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body61-1" uid="Body61-1" grounded="true" entityUid="Body61*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Base-1" uid="Base-1" grounded="true" entityUid="Base*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0030676637766174002 -0.088943258023244973 0.02756980176226587</Translation>
+</Transform>
+</Instance>
+<Instance name="plain washer 10669 type nl_iso-4-solid1-1" uid="plain washer 10669 type nl_iso-4-solid1-1" grounded="true" entityUid="plain washer 10669 type nl_iso-4-solid1*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+<Instance name="Body123-1" uid="Body123-1" grounded="true" entityUid="Body123*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<UnknownConstraint name="Lock1">
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>yaw-2-solid1-1</Uid>
+</InstancePath>
+<Position>-0.0011181976595044097 7.2724548069561201e-005 -3.6371617886951619e-016</Position>
+<Axis>0.99157593374297559 -0.12952670621051859 4.8815526069505035e-016</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>estator-3-solid2-1</Uid>
+</InstancePath>
+<Position>-0.0011181976595044097 7.2724548069561201e-005 -3.6371617886951619e-016</Position>
+<Axis>0.99157593374297559 -0.12952670621051859 4.8815526069505035e-016</Axis>
+</ConstraintGeometry>
+</UnknownConstraint>
+<UnknownConstraint name="Lock3">
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>yaw-2-solid1-1</Uid>
+</InstancePath>
+<Position>-0.0011181976595044097 7.2724548069561201e-005 -3.6371617886951619e-016</Position>
+<Axis>0.99157593374297559 -0.12952670621051859 4.8815526069505035e-016</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>arm-1-solid1-1</Uid>
+</InstancePath>
+<Position>-0.0011181976595044068 7.2724548069575933e-005 -3.6197645987078105e-016</Position>
+<Axis>0.99157593374297559 -0.12952670621051865 -3.9888284585422539e-016</Axis>
+</ConstraintGeometry>
+</UnknownConstraint>
+<Coincident name="Coincident3">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yaw-1-solid1-1</Uid>
+</InstancePath>
+<Position>0 0.013500999999999997 -0.30266666666666664</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yaw-2-solid1-1</Uid>
+</InstancePath>
+<Position>-0.00063054240104368784 0.0038059100230945237 -0.30266666666666664</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yaw-1-solid1-1</Uid>
+</InstancePath>
+<Position>0 0.0014999999999999979 -0.29299999999999998</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yaw-2-solid1-1</Uid>
+</InstancePath>
+<Position>-0.00063054240104368805 0.0038059100230945237 -0.29299999999999993</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Angle name="LimitAngle2">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yaw-2-solid1-1</Uid>
+</InstancePath>
+<Position>0.00072961754087296762 0.014218448903329508 -0.28333333333333327</Position>
+<Axis>-0.12952670621051865 -0.99157593374297559 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>yaw-1-solid1-1</Uid>
+</InstancePath>
+<Position>0 0.0029999999999999992 -0.29299999999999998</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Angle>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>servo-1-solid1-1</Uid>
+</InstancePath>
+<Position>0 0.0086329506263140253 -0.28103333333333325</Position>
+<Axis>0 2.1684043449710089e-016 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>arm-1-solid1-1</Uid>
+</InstancePath>
+<Position>0 0.0086329506263141138 -0.27873333333333328</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>estator-3-solid2-1</Uid>
+</InstancePath>
+<Position>0.0012477243657150661 0.018184752638301584 -0.29783333333333328</Position>
+<Axis>-0.12952670621051823 -0.99157593374297559 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>estator-3-solid1-1</Uid>
+</InstancePath>
+<Position>0.0012477243657150194 0.018184752638301598 -0.29783333333333312</Position>
+<Axis>-0.12952670621051823 -0.99157593374297559 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric23">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>rotor-1-solid1-1</Uid>
+</InstancePath>
+<Position>-0.26915203524216497 0.012500000000000001 0.15539500000000134</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>helice gws-1-solid1-1</Uid>
+</InstancePath>
+<Position>-0.26915203524216502 0.037499999999999999 0.15539500000000125</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident15">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>spinner-1-solid1-1</Uid>
+</InstancePath>
+<Position>-0.26915203524216497 0.037499999999999999 0.15539500000000134</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>helice gws-1-solid1-1</Uid>
+</InstancePath>
+<Position>-0.26915203524216502 0.037499999999999999 0.15539500000000125</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<UnknownConstraint name="Lock15">
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>estator-3-solid1-1</Uid>
+</InstancePath>
+<Position>0.2491844920521234 -0.032623594362776717 -0.13976939469694158</Position>
+<Axis>0.52624196153712832 -0.068741470651036196 -0.84755177312674412</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>rotor-3-solid1-1</Uid>
+</InstancePath>
+<Position>0.24927776265696527 -0.031909572600064662 -0.13976939469694144</Position>
+<Axis>0.52624196153712843 -0.068741470651035794 -0.84755177312674435</Axis>
+</ConstraintGeometry>
+</UnknownConstraint>
+<UnknownConstraint name="Lock16">
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>estator-3-solid1-1</Uid>
+</InstancePath>
+<Position>0.2491844920521234 -0.032623594362776717 -0.13976939469694158</Position>
+<Axis>0.52624196153712832 -0.068741470651036196 -0.84755177312674412</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>helice gws-3-solid1-1</Uid>
+</InstancePath>
+<Position>0.0089492381553765137 -6.9531106120001088e-007 -0.59549900425391056</Position>
+<Axis>-0.99101773560032425 0.12945379039603672 -0.033549424401990477</Axis>
+</ConstraintGeometry>
+</UnknownConstraint>
+<UnknownConstraint name="Lock17">
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>estator-3-solid1-1</Uid>
+</InstancePath>
+<Position>0.2491844920521234 -0.032623594362776717 -0.13976939469694158</Position>
+<Axis>0.52624196153712832 -0.068741470651036196 -0.84755177312674412</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="Unknown">
+<InstancePath>
+<Uid>spinner-3-solid1-1</Uid>
+</InstancePath>
+<Position>0.24938810054410018 -0.031064894335138721 -0.13976939469694161</Position>
+<Axis>0.52624196153712799 -0.068741470651036404 -0.84755177312674457</Axis>
+</ConstraintGeometry>
+</UnknownConstraint>
+<Coincident name="Coincident16">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>spinner-4-solid1-1</Uid>
+</InstancePath>
+<Position>0.2691520371858025 0.037499999999999999 0.15539499724237457</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>helice gws-4-solid1-1</Uid>
+</InstancePath>
+<Position>0.26915191485432344 0.037499999999999999 0.15539517080589971</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric24">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>helice gws-4-solid1-1</Uid>
+</InstancePath>
+<Position>0.26915191485432344 0.037499999999999999 0.15539517080589971</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>rotor-4-solid1-1</Uid>
+</InstancePath>
+<Position>0.26915203524216502 0.027524811924099304 0.15539500000000134</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="Base" uid="Base*:*Default" version="115">
+<ModelUnits mass="kilogram" length="meter"/>
+<PartFile name="Base.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>10</Mass>
+<CenterOfMass>0 0.005000000000000001 0</CenterOfMass>
+<Inertia>0.83341666666666669 1.6666666666666665 0.83341666666666681 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Base_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="1" a="1"/>
+<Diffuse r="1" g="1" b="1" a="1"/>
+<Specular r="0.01" g="0.01" b="0.01" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body101" uid="Body101*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body101.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.017994638420599e-005</Mass>
+<CenterOfMass>0.017131678910246025 -0.015799999999999998 -0.060285547450819529</CenterOfMass>
+<Inertia>1.2373176141000939e-010 2.2067689189721451e-010 1.2373176141000913e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body101_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body106" uid="Body106*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body106.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.0179946384205909e-005</Mass>
+<CenterOfMass>-0.054000139018890066 -0.015800000000000005 0.010360122221046415</CenterOfMass>
+<Inertia>1.2373176141000897e-010 2.2067689189721389e-010 1.2373176141000884e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body106_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body110" uid="Body110*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body110.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568826</Mass>
+<CenterOfMass>0 -0.0065453810625298783 0.040400329564514031</CenterOfMass>
+<Inertia>7.0381346881303766e-009 2.0448260529270305e-010 7.0381797015691022e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body110_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body114" uid="Body114*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body114.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.0179946384205943e-005</Mass>
+<CenterOfMass>-0.030425784470499657 -0.015799999999999995 -0.025255671056782395</CenterOfMass>
+<Inertia>1.2373176141000905e-010 2.2067689189721415e-010 1.2373176141000905e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body114_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body121" uid="Body121*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body121.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.017994638420599e-005</Mass>
+<CenterOfMass>-0.017131678910246025 -0.015799999999999998 -0.060285547450819529</CenterOfMass>
+<Inertia>1.2373176141000941e-010 2.2067689189721459e-010 1.2373176141000918e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body121_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body123" uid="Body123*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body123.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568826</Mass>
+<CenterOfMass>-0.044569916572013535 -0.0065453810625298913 0.052687510462315734</CenterOfMass>
+<Inertia>7.03813468813037e-009 2.0448260529270298e-010 7.0381797015690955e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body123_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body15" uid="Body15*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body15.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568843</Mass>
+<CenterOfMass>-0.054000139018890073 -0.0065453810625298835 0.010360122221046417</CenterOfMass>
+<Inertia>7.0381346881303824e-009 2.0448260529270308e-010 7.0381797015691071e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body15_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body19" uid="Body19*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body19.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00025715165685891801</Mass>
+<CenterOfMass>0.017131678910246029 -0.0063999999999999994 -0.060285547450819515</CenterOfMass>
+<Inertia>4.2171433423848471e-009 1.4123321081421705e-009 4.2171433423848454e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body19_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body27" uid="Body27*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body27.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00025715165685891807</Mass>
+<CenterOfMass>0.030425784470499661 -0.0063999999999999994 -0.025255671056782392</CenterOfMass>
+<Inertia>4.2171433423848479e-009 1.4123321081421715e-009 4.2171433423848479e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body27_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body29" uid="Body29*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body29.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568824</Mass>
+<CenterOfMass>-0.030425784470499661 -0.0065453810625298809 -0.025255671056782395</CenterOfMass>
+<Inertia>7.0381346881303741e-009 2.0448260529270308e-010 7.0381797015690997e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body29_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body31" uid="Body31*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body31.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00025715165685891823</Mass>
+<CenterOfMass>0.054000139018890059 -0.0064000000000000055 0.010360122221046422</CenterOfMass>
+<Inertia>4.2171433423848504e-009 1.4123321081421719e-009 4.2171433423848496e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body31_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body37" uid="Body37*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body37.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568815</Mass>
+<CenterOfMass>-0.044569916572013535 -0.0065453810625298904 0.052687510462315741</CenterOfMass>
+<Inertia>7.0381346881303691e-009 2.04482605292703e-010 7.0381797015690947e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body37_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body38" uid="Body38*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body38.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568826</Mass>
+<CenterOfMass>-0.017131678910246029 -0.0065453810625298835 -0.060285547450819529</CenterOfMass>
+<Inertia>7.0381346881303716e-009 2.0448260529270308e-010 7.0381797015690972e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body38_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body44" uid="Body44*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body44.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00025715165685891796</Mass>
+<CenterOfMass>0 -0.0063999999999999994 0.040400329564514031</CenterOfMass>
+<Inertia>4.2171433423848479e-009 1.4123321081421707e-009 4.2171433423848463e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body44_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body47" uid="Body47*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body47.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568807</Mass>
+<CenterOfMass>0.017131678910246029 -0.0065453810625298869 -0.060285547450819536</CenterOfMass>
+<Inertia>7.0381346881303642e-009 2.0448260529270293e-010 7.0381797015690898e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body47_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body50" uid="Body50*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body50.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00025715165685891769</Mass>
+<CenterOfMass>-0.044569916572013535 -0.0064000000000000029 0.052687510462315734</CenterOfMass>
+<Inertia>4.2171433423848446e-009 1.4123321081421673e-009 4.2171433423848421e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body50_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body55" uid="Body55*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body55.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00025715165685891823</Mass>
+<CenterOfMass>-0.054000139018890059 -0.0064000000000000055 0.010360122221046418</CenterOfMass>
+<Inertia>4.2171433423848504e-009 1.4123321081421719e-009 4.2171433423848496e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body55_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body58" uid="Body58*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body58.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568807</Mass>
+<CenterOfMass>0.030425784470499661 -0.0065453810625298861 -0.025255671056782388</CenterOfMass>
+<Inertia>7.038134688130365e-009 2.0448260529270298e-010 7.0381797015690906e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body58_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body61" uid="Body61*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body61.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00025715165685891807</Mass>
+<CenterOfMass>-0.030425784470499661 -0.0063999999999999994 -0.025255671056782392</CenterOfMass>
+<Inertia>4.2171433423848487e-009 1.4123321081421715e-009 4.2171433423848479e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body61_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body66" uid="Body66*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body66.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.017994638420599e-005</Mass>
+<CenterOfMass>0.017131678910246025 -0.015799999999999998 -0.060285547450819529</CenterOfMass>
+<Inertia>1.2373176141000939e-010 2.2067689189721451e-010 1.2373176141000913e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body66_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body68" uid="Body68*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body68.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00025715165685891801</Mass>
+<CenterOfMass>-0.017131678910246029 -0.0063999999999999994 -0.060285547450819515</CenterOfMass>
+<Inertia>4.2171433423848471e-009 1.4123321081421705e-009 4.2171433423848454e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body68_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body70" uid="Body70*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body70.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568843</Mass>
+<CenterOfMass>0.054000139018890073 -0.0065453810625298835 0.010360122221046424</CenterOfMass>
+<Inertia>7.0381346881303807e-009 2.0448260529270308e-010 7.0381797015691063e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body70_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body74" uid="Body74*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body74.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568826</Mass>
+<CenterOfMass>-0.017131678910246029 -0.0065453810625298835 -0.060285547450819529</CenterOfMass>
+<Inertia>7.0381346881303716e-009 2.0448260529270308e-010 7.0381797015690972e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body74_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body84" uid="Body84*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body84.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00025715165685891769</Mass>
+<CenterOfMass>-0.044569916572013535 -0.0064000000000000029 0.052687510462315734</CenterOfMass>
+<Inertia>4.2171433423848446e-009 1.4123321081421673e-009 4.2171433423848421e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body84_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body85" uid="Body85*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body85.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00016341189212568805</Mass>
+<CenterOfMass>0.044569916572013535 -0.0065453810625299017 0.052687510462315741</CenterOfMass>
+<Inertia>7.0381346881303584e-009 2.0448260529270282e-010 7.0381797015690831e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body85_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body87" uid="Body87*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body87.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.0179946384205983e-005</Mass>
+<CenterOfMass>0.044569916572013528 -0.015800000000000002 0.052687510462315727</CenterOfMass>
+<Inertia>1.2373176141000918e-010 2.2067689189721456e-010 1.2373176141000939e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body87_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Body94" uid="Body94*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Body94.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.0179946384205949e-005</Mass>
+<CenterOfMass>0 -0.015799999999999995 0.040400329564514031</CenterOfMass>
+<Inertia>1.2373176141000903e-010 2.2067689189721409e-010 1.2373176141000903e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Body94_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part6-1-solid1" uid="Part6-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Part6-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00022500000000000002</Mass>
+<CenterOfMass>-0.043725369239082615 -0.033577845107070639 0.079190626091565991</CenterOfMass>
+<Inertia>2.888242533372907e-009 5.6242574666270952e-009 2.8875000000000081e-009 2.3160261590615148e-011 1.4060592678770878e-009 -4.5079194231159714e-011</Inertia>
+</MassProperties>
+<GeometryFile name="Part6-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Part6-2-solid1" uid="Part6-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="Part6-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00022500000000000005</Mass>
+<CenterOfMass>0.057277401475354317 -0.032914288020652868 0.079190626091566102</CenterOfMass>
+<Inertia>2.8882425333729111e-009 5.6242574666270903e-009 2.8874999999999986e-009 -2.3160261590615532e-011 -1.4060592678770869e-009 -4.5079194231158828e-011</Inertia>
+</MassProperties>
+<GeometryFile name="Part6-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="acess rolamento-1-solid1" uid="acess rolamento-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="acess rolamento-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00047123889803846886</Mass>
+<CenterOfMass>-0.051739930228613507 -0.032759730112042695 0.11902899847244144</CenterOfMass>
+<Inertia>2.9448479321141951e-008 1.4887247002644022e-008 1.488329519638165e-008 0 0 2.3991412179533922e-010</Inertia>
+</MassProperties>
+<GeometryFile name="acess rolamento-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="acess rolamento-2-solid1" uid="acess rolamento-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="acess rolamento-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00047123889803846886</Mass>
+<CenterOfMass>-0.041241354361797961 -0.032586800158832752 0.11902899847244146</CenterOfMass>
+<Inertia>2.9448479321141965e-008 1.4887247002644029e-008 1.4883295196381657e-008 0 0 2.3991412179533798e-010</Inertia>
+</MassProperties>
+<GeometryFile name="acess rolamento-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="angular contact ball bearing_68_iso-1-solid1" uid="angular contact ball bearing_68_iso-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="angular contact ball bearing_68_iso-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00024366054166154343</Mass>
+<CenterOfMass>-0.051282768061246181 -0.032752199849537034 0.11902899847244143</CenterOfMass>
+<Inertia>3.5605298645802228e-009 2.1740467973947936e-009 2.1736705165726961e-009 0 0 2.2844005244345295e-011</Inertia>
+</MassProperties>
+<GeometryFile name="angular contact ball bearing_68_iso-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="angular contact ball bearing_68_iso-3-solid1" uid="angular contact ball bearing_68_iso-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="angular contact ball bearing_68_iso-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00024366054166154326</Mass>
+<CenterOfMass>-0.042783920930966869 -0.032612208935033755 0.11902899847244146</CenterOfMass>
+<Inertia>3.5605298645802195e-009 2.1740467973947973e-009 2.1736705165726977e-009 0 0 2.2844005244345486e-011</Inertia>
+</MassProperties>
+<GeometryFile name="angular contact ball bearing_68_iso-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="arm-1-solid1" uid="arm-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="arm-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00010574117425439138</Mass>
+<CenterOfMass>0.00019396940167188428 0.010117859771365112 -0.28210386558845812</CenterOfMass>
+<Inertia>8.1238380291966995e-010 9.5201901080146783e-010 1.5608907298136754e-009 5.1731719507208142e-011 6.7575654131515833e-012 1.8556787436760609e-011</Inertia>
+</MassProperties>
+<GeometryFile name="arm-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="camfpv_1-1-solid1" uid="camfpv_1-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="camfpv_1-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0025571497317830681</Mass>
+<CenterOfMass>-0.0093556537622958326 0.021776654726078443 0.035023863469323555</CenterOfMass>
+<Inertia>5.4110527983823067e-007 4.2606115102607007e-007 9.654616489584774e-007 4.9439049333152745e-013 6.648304468981278e-013 1.897378771806189e-009</Inertia>
+</MassProperties>
+<GeometryFile name="camfpv_1-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="crius-1-solid1" uid="crius-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="crius-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0031280000000000006</Mass>
+<CenterOfMass>-1.4284583866266984e-011 0.0030000000000000001 -1.0180496474204674e-006</CenterOfMass>
+<Inertia>4.0458030500371523e-007 8.0707527673166829e-007 4.0458030506128647e-007 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="crius-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="esc-1-solid1" uid="esc-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="esc-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0072171562646434336</Mass>
+<CenterOfMass>-0.0093999999999999605 -0.0065597043802133881 -0.14716728016099656</CenterOfMass>
+<Inertia>1.9171398858516886e-006 1.6075696266392566e-006 3.5105023530316962e-007 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="esc-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="esc-2-solid1" uid="esc-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="esc-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0072171562646434354</Mass>
+<CenterOfMass>-0.22183920491024559 -0.0056497977289383218 0.13893310973250919</CenterOfMass>
+<Inertia>7.4257264794030565e-007 1.6075696266392549e-006 1.5256174732145518e-006 0 6.7813671098945867e-007 0</Inertia>
+</MassProperties>
+<GeometryFile name="esc-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="esc-3-solid1" uid="esc-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="esc-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0072171562646434432</Mass>
+<CenterOfMass>0.2218392049102457 -0.0056497977289383288 0.13893310973250916</CenterOfMass>
+<Inertia>7.4257264794030629e-007 1.6075696266392575e-006 1.5256174732145535e-006 0 -6.7813671098945972e-007 0</Inertia>
+</MassProperties>
+<GeometryFile name="esc-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="espaçador-1-solid1" uid="espaçador-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="espaçador-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0008828402695014231</Mass>
+<CenterOfMass>0.00020000000000001912 0.0018164753131570323 -0.26233333333333325</CenterOfMass>
+<Inertia>4.1210154660345859e-008 4.8182717822694105e-008 8.9098733958808831e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="espaçador-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="estator-1-solid1" uid="estator-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="estator-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0051067073396520142</Mass>
+<CenterOfMass>-0.26915203524216497 0.016910531632946871 0.15539500000000125</CenterOfMass>
+<Inertia>2.7981249583363338e-007 3.080630315270724e-007 2.7981249583363327e-007 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="estator-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="estator-1-solid2" uid="estator-1-solid2*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="estator-1-solid2.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00030013608653088944</Mass>
+<CenterOfMass>-0.26915203524216502 0.00050000000000000044 0.15539500000000131</CenterOfMass>
+<Inertia>1.0461477477667576e-008 2.0872932274246672e-008 1.0461477477667578e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="estator-1-solid2_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="estator-3-solid1" uid="estator-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="estator-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0051067073396520212</Mass>
+<CenterOfMass>0.0033085631221889769 0.033961252898588028 -0.29783333333333328</CenterOfMass>
+<Inertia>2.8028645980636732e-007 3.0758906755434031e-007 2.7981249583363353e-007 0 0 3.6283735036025153e-009</Inertia>
+</MassProperties>
+<GeometryFile name="estator-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="estator-3-solid2" uid="estator-3-solid2*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="estator-3-solid2.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00030013608653088836</Mass>
+<CenterOfMass>0.0011829610126098092 0.017688964671430104 -0.29783333333333328</CenterOfMass>
+<Inertia>1.0636152199975991e-008 2.0698257551938173e-008 1.0461477477667535e-008 0 0 1.3372010756822491e-009</Inertia>
+</MassProperties>
+<GeometryFile name="estator-3-solid2_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="estator-4-solid1" uid="estator-4-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="estator-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.005106707339652022</Mass>
+<CenterOfMass>0.26915203524216502 0.016910531632946875 0.15539500000000125</CenterOfMass>
+<Inertia>2.7981249583363449e-007 3.0806303152707303e-007 2.7981249583363322e-007 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="estator-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="estator-4-solid2" uid="estator-4-solid2*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="estator-4-solid2.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00030013608653088944</Mass>
+<CenterOfMass>0.26915203524216502 0.00050000000000000044 0.15539500000000131</CenterOfMass>
+<Inertia>1.0461477477667581e-008 2.0872932274246669e-008 1.0461477477667571e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="estator-4-solid2_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="frame_down3-1-solid1" uid="frame_down3-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="frame_down3-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.033286156161746898</Mass>
+<CenterOfMass>0.00040484253322915108 -0.013799999981501927 0.0051763299248587195</CenterOfMass>
+<Inertia>6.6800933440705059e-005 0.00012787738742198017 6.1098644786215743e-005 6.267449888511795e-014 -2.2619038004520336e-007 -2.4164744208622588e-013</Inertia>
+</MassProperties>
+<GeometryFile name="frame_down3-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="frame_up2-1-solid1" uid="frame_up2-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="frame_up2-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.034262692366932787</Mass>
+<CenterOfMass>-0.00022780211462094298 0.0010000000179708488 0.0044086024630542297</CenterOfMass>
+<Inertia>6.7171842543198835e-005 0.00012865768000845245 6.1508679294331066e-005 6.2201786667385625e-014 4.8607080113499011e-007 -2.4203697999309625e-013</Inertia>
+</MassProperties>
+<GeometryFile name="frame_up2-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="helice gws-1-solid1" uid="helice gws-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="helice gws-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0068833888042099623</Mass>
+<CenterOfMass>-0.26914668480922876 0.032499999719435575 0.15539148152227999</CenterOfMass>
+<Inertia>7.1975104415386013e-006 2.1406220223456683e-005 1.4258643295565894e-005 7.4905621770706793e-009 9.8887445930842749e-006 5.2919926281303534e-009</Inertia>
+</MassProperties>
+<GeometryFile name="helice gws-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="helice gws-3-solid1" uid="helice gws-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="helice gws-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0068834530629569212</Mass>
+<CenterOfMass>0.0053207952715395475 0.04942031233673605 -0.29783293807167049</CenterOfMass>
+<Inertia>5.9089230086081073e-007 2.1051460477328227e-005 2.1220789774646225e-005 -6.1405916172015465e-008 3.9929092138879593e-007 2.7189291679810102e-006</Inertia>
+</MassProperties>
+<GeometryFile name="helice gws-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="helice gws-4-solid1" uid="helice gws-4-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="helice gws-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0068834316815648928</Mass>
+<CenterOfMass>0.26914638116513934 0.032499999427159962 0.15539100635418623</CenterOfMass>
+<Inertia>7.1983424631757049e-006 2.1406528704306052e-005 1.425811975917096e-005 -7.5021909591981479e-009 -9.8891473172348843e-006 5.2755220485864205e-009</Inertia>
+</MassProperties>
+<GeometryFile name="helice gws-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="holder_1-1-solid1" uid="holder_1-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="holder_1-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00033120699625676021</Mass>
+<CenterOfMass>-0.033999999999999968 -0.017017166652975924 -0.018606288676339962</CenterOfMass>
+<Inertia>6.1955117401327664e-009 6.3249143474751209e-009 1.2299621423436713e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="holder_1-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="holder_1-2-solid1" uid="holder_1-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="holder_1-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00033120699625676021</Mass>
+<CenterOfMass>-0.033999999999999968 -0.017017166652975924 0.03839371132366004</CenterOfMass>
+<Inertia>6.1955117401327664e-009 6.3249143474751209e-009 1.2299621423436713e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="holder_1-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="holder_1-3-solid1" uid="holder_1-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="holder_1-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00033120699625676026</Mass>
+<CenterOfMass>0.033999999999999968 -0.017017166652975924 0.038393711323660033</CenterOfMass>
+<Inertia>6.1955117401327664e-009 6.3249143474751209e-009 1.2299621423436713e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="holder_1-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="holder_1-4-solid1" uid="holder_1-4-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="holder_1-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00033120699625676021</Mass>
+<CenterOfMass>0.033999999999999968 -0.017017166652975924 -0.018606288676339962</CenterOfMass>
+<Inertia>6.1955117401327664e-009 6.3249143474751209e-009 1.2299621423436713e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="holder_1-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="hxt900-1-solid1" uid="hxt900-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="hxt900-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0061638757305769176</Mass>
+<CenterOfMass>0.071057093425116735 -0.030737047814543596 0.11219244653718202</CenterOfMass>
+<Inertia>3.4539537891603085e-007 5.3132106523523033e-007 3.322024208257701e-007 1.2930903205083922e-010 7.8503501449668367e-009 -3.0633532091785904e-009</Inertia>
+</MassProperties>
+<GeometryFile name="hxt900-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="mobius-1-solid1" uid="mobius-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="mobius-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.037840110452103906</Mass>
+<CenterOfMass>0.0055686221256494835 -0.047762997217685448 0.1203255595227451</CenterOfMass>
+<Inertia>1.2689214955336464e-005 1.5442706558077503e-005 4.755328249161167e-006 3.1392627798709006e-007 -6.9717930385443574e-008 -4.346548907880412e-008</Inertia>
+</MassProperties>
+<GeometryFile name="mobius-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="peça_gimbal2-1-solid1" uid="peça_gimbal2-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="peça_gimbal2-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0046540383938784621</Mass>
+<CenterOfMass>0.0067513118391058086 -0.031746270011459549 0.073190626091566055</CenterOfMass>
+<Inertia>2.5439148108647282e-007 5.3898106649696962e-006 5.641099453793584e-006 0 0 -8.4612315537820865e-008</Inertia>
+</MassProperties>
+<GeometryFile name="peça_gimbal2-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="peça_gimbal2aaa-1-solid1" uid="peça_gimbal2aaa-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="peça_gimbal2aaa-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.003618094738869748</Mass>
+<CenterOfMass>-0.0047984560738073487 -0.015969349755899878 0.065190626091566048</CenterOfMass>
+<Inertia>1.2968886554575241e-006 9.7510540361066332e-007 2.2695819925561645e-006 0 -1.0656678592459609e-014 -2.7390345836649616e-007</Inertia>
+</MassProperties>
+<GeometryFile name="peça_gimbal2aaa-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="peça_gimbal3-1-solid1" uid="peça_gimbal3-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="peça_gimbal3-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0023541921117286408</Mass>
+<CenterOfMass>0.063243648682190623 -0.030815744349554385 0.10012167577993758</CenterOfMass>
+<Inertia>9.3479477148619121e-007 8.076009133940531e-007 1.2883234304920308e-007 2.2633553856275831e-013 -3.7281422361601228e-015 2.0954401176878983e-009</Inertia>
+</MassProperties>
+<GeometryFile name="peça_gimbal3-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="peça_gimbal3_2-1-solid1" uid="peça_gimbal3_2-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="peça_gimbal3_2-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0031561313967645305</Mass>
+<CenterOfMass>-0.049741065917610731 -0.032674311807156742 0.096864400512836707</CenterOfMass>
+<Inertia>1.4589969317271955e-006 1.312907217652757e-006 1.4827308188959241e-007 -1.737639133398193e-010 2.8621963398998444e-012 2.4067724688519779e-009</Inertia>
+</MassProperties>
+<GeometryFile name="peça_gimbal3_2-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="peça_gimbal4-1-solid1" uid="peça_gimbal4-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="peça_gimbal4-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0031477406439273962</Mass>
+<CenterOfMass>0.054974699461495032 -0.044912835237690192 0.1186193847425694</CenterOfMass>
+<Inertia>1.0014304077414818e-006 4.0795493952643634e-007 5.9589609131679624e-007 -5.5435831023658707e-009 9.1312534068825002e-011 9.7782346060785569e-009</Inertia>
+</MassProperties>
+<GeometryFile name="peça_gimbal4-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="peça_gimbal4_2-1-solid1" uid="peça_gimbal4_2-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="peça_gimbal4_2-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0031176930482605296</Mass>
+<CenterOfMass>-0.043008697906278939 -0.04672784206711867 0.11861346475769893</CenterOfMass>
+<Inertia>9.9426111875054334e-007 4.070563744228718e-007 5.8960193204667888e-007 -5.3845187413672465e-009 8.8692465132429575e-011 9.6749167562186526e-009</Inertia>
+</MassProperties>
+<GeometryFile name="peça_gimbal4_2-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="peça_gimbal55-1-solid1" uid="peça_gimbal55-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="peça_gimbal55-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0086908849616210253</Mass>
+<CenterOfMass>0.0061786708858487475 -0.057699469121721719 0.11831656386287204</CenterOfMass>
+<Inertia>2.2398848031883907e-006 9.068511913780839e-006 6.8419960859774413e-006 6.5672533395814349e-008 -1.0817417782589551e-009 -1.1250998819820974e-007</Inertia>
+</MassProperties>
+<GeometryFile name="peça_gimbal55-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-1-solid1" uid="plain washer 10669 type nl_iso-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.319689898685965e-005</Mass>
+<CenterOfMass>-0.08642067504364892 0.0025000000000000001 0.049895000000000425</CenterOfMass>
+<Inertia>2.0068559320978548e-010 3.9417170325509444e-010 2.0068559320978556e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-10-solid1" uid="plain washer 10669 type nl_iso-10-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-10-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.319689898685965e-005</Mass>
+<CenterOfMass>0.069100166967960217 0.0025000000000000009 0.039895000000000333</CenterOfMass>
+<Inertia>2.0068559320978553e-010 3.9417170325509444e-010 2.0068559320978556e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-10-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-11-solid1" uid="plain washer 10669 type nl_iso-11-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-11-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859697e-005</Mass>
+<CenterOfMass>0.08642067504364892 -0.015299999999999999 0.049895000000000425</CenterOfMass>
+<Inertia>2.0068559320978566e-010 3.9417170325509475e-010 2.0068559320978574e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-11-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-12-solid1" uid="plain washer 10669 type nl_iso-12-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-12-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859697e-005</Mass>
+<CenterOfMass>0.069100166967960203 -0.015299999999999999 0.039895000000000333</CenterOfMass>
+<Inertia>2.0068559320978569e-010 3.941717032550948e-010 2.0068559320978574e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-12-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-13-solid1" uid="plain washer 10669 type nl_iso-13-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-13-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859697e-005</Mass>
+<CenterOfMass>-0.0099999999999999967 0.0069999999999999975 0.066690626091566049</CenterOfMass>
+<Inertia>2.0068559320978566e-010 2.0068559320978571e-010 3.9417170325509475e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-13-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-14-solid1" uid="plain washer 10669 type nl_iso-14-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-14-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859697e-005</Mass>
+<CenterOfMass>-0.009999999999999995 0.0069999999999999958 0.053690626091566052</CenterOfMass>
+<Inertia>2.0068559320978576e-010 2.0068559320978576e-010 3.941717032550949e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-14-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-15-solid1" uid="plain washer 10669 type nl_iso-15-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-15-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859697e-005</Mass>
+<CenterOfMass>0.010000000000000009 0.0070000000000000027 0.066690626091566049</CenterOfMass>
+<Inertia>2.0068559320978576e-010 2.0068559320978574e-010 3.9417170325509485e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-15-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-16-solid1" uid="plain washer 10669 type nl_iso-16-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-16-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859697e-005</Mass>
+<CenterOfMass>0.010000000000000007 0.007000000000000001 0.053690626091566052</CenterOfMass>
+<Inertia>2.0068559320978566e-010 2.0068559320978571e-010 3.9417170325509475e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-16-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-2-solid1" uid="plain washer 10669 type nl_iso-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859697e-005</Mass>
+<CenterOfMass>-0.08642067504364892 -0.015299999999999999 0.049895000000000425</CenterOfMass>
+<Inertia>2.0068559320978566e-010 3.941717032550948e-010 2.0068559320978576e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-3-solid1" uid="plain washer 10669 type nl_iso-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.319689898685965e-005</Mass>
+<CenterOfMass>-0.069100166967960217 0.0025000000000000009 0.039895000000000333</CenterOfMass>
+<Inertia>2.0068559320978553e-010 3.9417170325509444e-010 2.0068559320978556e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-4-solid1" uid="plain washer 10669 type nl_iso-4-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859697e-005</Mass>
+<CenterOfMass>-0.069100166967960203 -0.015299999999999999 0.039895000000000333</CenterOfMass>
+<Inertia>2.0068559320978569e-010 3.941717032550948e-010 2.0068559320978574e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-5-solid1" uid="plain washer 10669 type nl_iso-5-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-5-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.319689898685965e-005</Mass>
+<CenterOfMass>0 0.0025000000000000027 -0.10000000000000001</CenterOfMass>
+<Inertia>2.0068559320978553e-010 3.9417170325509444e-010 2.0068559320978556e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-5-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-6-solid1" uid="plain washer 10669 type nl_iso-6-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-6-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859697e-005</Mass>
+<CenterOfMass>0 -0.015299999999999999 -0.10000000000000002</CenterOfMass>
+<Inertia>2.0068559320978574e-010 3.9417170325509485e-010 2.0068559320978574e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-6-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-7-solid1" uid="plain washer 10669 type nl_iso-7-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-7-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.319689898685965e-005</Mass>
+<CenterOfMass>0 0.0025000000000000001 -0.079999999999999974</CenterOfMass>
+<Inertia>2.0068559320978556e-010 3.9417170325509454e-010 2.0068559320978561e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-7-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-8-solid1" uid="plain washer 10669 type nl_iso-8-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-8-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.3196898986859616e-005</Mass>
+<CenterOfMass>0 -0.015299999999999999 -0.080000000000000002</CenterOfMass>
+<Inertia>2.006855932097854e-010 3.9417170325509423e-010 2.0068559320978537e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-8-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="plain washer 10669 type nl_iso-9-solid1" uid="plain washer 10669 type nl_iso-9-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="plain washer 10669 type nl_iso-9-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>4.319689898685965e-005</Mass>
+<CenterOfMass>0.08642067504364892 0.0025000000000000001 0.049895000000000418</CenterOfMass>
+<Inertia>2.0068559320978548e-010 3.9417170325509444e-010 2.0068559320978556e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="plain washer 10669 type nl_iso-9-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="receptor frsky-1-solid1" uid="receptor frsky-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="receptor frsky-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.01925</Mass>
+<CenterOfMass>-3.538728662274275e-005 0.0089999999999999941 -0.042284225769632998</CenterOfMass>
+<Inertia>1.3170208333333334e-006 5.8552083333333328e-006 5.1670208333333324e-006 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="receptor frsky-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="rotor-1-solid1" uid="rotor-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="rotor-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0026802425789764078</Mass>
+<CenterOfMass>-0.26915203698864137 0.020012405962049645 0.15539500005882562</CenterOfMass>
+<Inertia>2.5787749877552781e-007 3.8003852542047483e-007 2.5787749303298885e-007 4.5664010425069479e-015 -2.4183243106905793e-014 1.557290881009511e-014</Inertia>
+</MassProperties>
+<GeometryFile name="rotor-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="rotor-3-solid1" uid="rotor-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="rotor-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0026802424431366656</Mass>
+<CenterOfMass>0.0037103362910239834 0.037036996574796761 -0.29783333304727638</CenterOfMass>
+<Inertia>2.5992699879890971e-007 3.779889902049384e-007 2.5787747845781436e-007 -5.1709518707484205e-015 -6.3154691470455079e-015 1.568985110592812e-008</Inertia>
+</MassProperties>
+<GeometryFile name="rotor-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="rotor-4-solid1" uid="rotor-4-solid1*:*Default" version="109">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="rotor-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0026802425789764052</Mass>
+<CenterOfMass>0.26915203698864143 0.020012405962049663 0.15539500005882559</CenterOfMass>
+<Inertia>2.5787749877552791e-007 3.8003852542047515e-007 2.5787749303298859e-007 -4.56640111415482e-015 2.4183243191347165e-014 1.5572908684566252e-014</Inertia>
+</MassProperties>
+<GeometryFile name="rotor-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="sec_quad_gimbal-1-solid1" uid="sec_quad_gimbal-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="sec_quad_gimbal-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0066465708264711564</Mass>
+<CenterOfMass>0 0.0070000000000000001 0.059190626091566043</CenterOfMass>
+<Inertia>1.1352261964381645e-007 2.8054660677020466e-006 2.8049167798615206e-006 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="sec_quad_gimbal-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="sec_quad_gimbal2-1-solid1" uid="sec_quad_gimbal2-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="sec_quad_gimbal2-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0067879424958826986</Mass>
+<CenterOfMass>0 -0.0077999999999999988 0.059190626091566036</CenterOfMass>
+<Inertia>1.1478023845295667e-007 2.8840701885164194e-006 2.8835209006758933e-006 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="sec_quad_gimbal2-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="servo arm-1-solid1" uid="servo arm-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="servo arm-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00021498959998162429</Mass>
+<CenterOfMass>0.056495387636414152 -0.030976904642044983 0.11902899847244161</CenterOfMass>
+<Inertia>1.5549495803066152e-008 7.6631660678634065e-010 1.4871824378142888e-008 -4.1582335969219518e-010 6.8493398578434593e-012 2.4357096821488954e-010</Inertia>
+</MassProperties>
+<GeometryFile name="servo arm-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="servo-1-solid1" uid="servo-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="servo-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0065728900973449546</Mass>
+<CenterOfMass>1.7941224841627157e-010 0.014944724756364913 -0.26309411073567879</CenterOfMass>
+<Inertia>6.8223236561737668e-007 4.4627939976638359e-007 3.6414693912091724e-007 -2.1410121128692948e-008 -1.1073773378680853e-013 -1.2576279831843424e-013</Inertia>
+</MassProperties>
+<GeometryFile name="servo-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="servo_big40x20-1-solid1" uid="servo_big40x20-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="servo_big40x20-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.024614684713488905</Mass>
+<CenterOfMass>-0.0075424329586261159 -0.031746270011459535 0.053324048077975299</CenterOfMass>
+<Inertia>2.7102156010113884e-006 5.2659005433629221e-006 4.2015915737411508e-006 0 -4.6942660888366179e-008 0</Inertia>
+</MassProperties>
+<GeometryFile name="servo_big40x20-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso-1-solid1" uid="socket head cap screw_iso-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="socket head cap screw_iso-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00023893372486257896</Mass>
+<CenterOfMass>-0.086420675043648934 -0.0058428982498101812 0.049895000000000418</CenterOfMass>
+<Inertia>1.83142709708259e-008 4.5971994687026576e-010 1.83142709708259e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso-2-solid1" uid="socket head cap screw_iso-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="socket head cap screw_iso-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00023893372486257896</Mass>
+<CenterOfMass>-0.069100166967960203 -0.0058428982498101812 0.039895000000000326</CenterOfMass>
+<Inertia>1.83142709708259e-008 4.5971994687026576e-010 1.83142709708259e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso-3-solid1" uid="socket head cap screw_iso-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="socket head cap screw_iso-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00023893372486257885</Mass>
+<CenterOfMass>0 -0.005842898249810189 -0.10000000000000001</CenterOfMass>
+<Inertia>1.8314270970825877e-008 4.5971994687026529e-010 1.8314270970825877e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso-4-solid1" uid="socket head cap screw_iso-4-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="socket head cap screw_iso-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00023893372486257939</Mass>
+<CenterOfMass>0 -0.0058428982498101708 -0.080000000000000002</CenterOfMass>
+<Inertia>1.831427097082593e-008 4.5971994687026741e-010 1.831427097082593e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso-5-solid1" uid="socket head cap screw_iso-5-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="socket head cap screw_iso-5-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00023893372486257896</Mass>
+<CenterOfMass>0.086420675043648934 -0.0058428982498101812 0.049895000000000418</CenterOfMass>
+<Inertia>1.83142709708259e-008 4.5971994687026519e-010 1.83142709708259e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso-5-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso-6-solid1" uid="socket head cap screw_iso-6-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="socket head cap screw_iso-6-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00023893372486257896</Mass>
+<CenterOfMass>0.069100166967960203 -0.0058428982498101812 0.039895000000000326</CenterOfMass>
+<Inertia>1.83142709708259e-008 4.5971994687026519e-010 1.83142709708259e-008 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso-6-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso-7-solid1" uid="socket head cap screw_iso-7-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="socket head cap screw_iso-7-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00020359080750969805</Mass>
+<CenterOfMass>-0.009999999999999995 0.0069999999999999967 0.060710032514839786</CenterOfMass>
+<Inertia>1.0539739561625343e-008 1.0539739561625343e-008 4.199591648482785e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso-7-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="socket head cap screw_iso-8-solid1" uid="socket head cap screw_iso-8-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="socket head cap screw_iso-8-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00020359080750969821</Mass>
+<CenterOfMass>0.010000000000000005 0.0070000000000000027 0.060710032514839786</CenterOfMass>
+<Inertia>1.0539739561625353e-008 1.0539739561625351e-008 4.1995916484827886e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="socket head cap screw_iso-8-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="spinner-1-solid1" uid="spinner-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="spinner-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00092050106035551074</Mass>
+<CenterOfMass>-0.26915203496839812 0.0426916093668629 0.1553949968998698</CenterOfMass>
+<Inertia>1.7503082124166233e-008 1.1663789766799412e-008 1.7520953285177954e-008 2.4015876044401199e-014 2.5030118507316397e-011 4.6657585456233056e-015</Inertia>
+</MassProperties>
+<GeometryFile name="spinner-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="spinner-3-solid1" uid="spinner-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="spinner-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00092050106223343076</Mass>
+<CenterOfMass>0.0066478988397208269 0.059525149465295399 -0.29783333529544809</CenterOfMass>
+<Inertia>1.7440019003446725e-008 1.1762346219137504e-008 1.7485460175879442e-008 1.4176199307383701e-013 -1.0112805551214019e-012 -7.5450970453408426e-010</Inertia>
+</MassProperties>
+<GeometryFile name="spinner-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="spinner-4-solid1" uid="spinner-4-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="spinner-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00092050106035550933</Mass>
+<CenterOfMass>0.26915203417409267 0.042691609366862948 0.15539499802682818</CenterOfMass>
+<Inertia>1.7503082387563582e-008 1.1663789766799278e-008 1.752095302178086e-008 -1.2468447780293661e-014 -2.5030212536750542e-011 2.1049214070720552e-014</Inertia>
+</MassProperties>
+<GeometryFile name="spinner-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="torque nut 01_iso-1-solid1" uid="torque nut 01_iso-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="torque nut 01_iso-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.2694398171777536e-005</Mass>
+<CenterOfMass>-0.086420675647355977 -0.017829251308457136 0.049895000207665754</CenterOfMass>
+<Inertia>3.2142122643007305e-010 4.0101565023634539e-010 3.2142187365030097e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="torque nut 01_iso-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="torque nut 01_iso-2-solid1" uid="torque nut 01_iso-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="torque nut 01_iso-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.2694398185000236e-005</Mass>
+<CenterOfMass>-0.069100167595125106 -0.017829251308351522 0.039895000125080834</CenterOfMass>
+<Inertia>3.2142116910968121e-010 4.010156502217683e-010 3.2142193101007348e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="torque nut 01_iso-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="torque nut 01_iso-3-solid1" uid="torque nut 01_iso-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="torque nut 01_iso-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.2694398171777767e-005</Mass>
+<CenterOfMass>-6.0370701088071553e-010 -0.017829251308457129 -0.099999999792334676</CenterOfMass>
+<Inertia>3.2142122643007419e-010 4.0101565023634663e-010 3.2142187365030117e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="torque nut 01_iso-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="torque nut 01_iso-4-solid1" uid="torque nut 01_iso-4-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="torque nut 01_iso-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.2694398185780482e-005</Mass>
+<CenterOfMass>-6.2563741739464309e-010 -0.017829251308345288 -0.079999999867235397</CenterOfMass>
+<Inertia>3.2142117364711408e-010 4.0101565022081001e-010 3.2142192647484939e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="torque nut 01_iso-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="torque nut 01_iso-5-solid1" uid="torque nut 01_iso-5-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="torque nut 01_iso-5-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.2694398171778282e-005</Mass>
+<CenterOfMass>0.086420675647355963 -0.017829251308457125 0.049895000207665754</CenterOfMass>
+<Inertia>3.2142120908321497e-010 4.0101565023634937e-010 3.2142189099716406e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="torque nut 01_iso-5-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="torque nut 01_iso-6-solid1" uid="torque nut 01_iso-6-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="torque nut 01_iso-6-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.2694398185000276e-005</Mass>
+<CenterOfMass>0.069100167594812356 -0.017829251308351519 0.039895000124932259</CenterOfMass>
+<Inertia>3.2142115792043124e-010 4.0101565022181607e-010 3.2142194219937153e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="torque nut 01_iso-6-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="torque nut 01_iso-7-solid1" uid="torque nut 01_iso-7-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="torque nut 01_iso-7-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.2694398171777726e-005</Mass>
+<CenterOfMass>-0.010000000522916198 0.006999999633740912 0.051161374783108914</CenterOfMass>
+<Inertia>3.2142141924964289e-010 3.2142168083071903e-010 4.0101565023634642e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="torque nut 01_iso-7-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="torque nut 01_iso-8-solid1" uid="torque nut 01_iso-8-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="torque nut 01_iso-8-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.2694398171777875e-005</Mass>
+<CenterOfMass>0.0099999994770838107 0.0069999996337409276 0.051161374783108914</CenterOfMass>
+<Inertia>3.2142141924964346e-010 3.2142168083071976e-010 4.0101565023634715e-010 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="torque nut 01_iso-8-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="trem1-1-solid1" uid="trem1-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="trem1-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0014356863866239464</Mass>
+<CenterOfMass>-0.061697204020288332 -0.042428701050822512 0.040393711323660035</CenterOfMass>
+<Inertia>5.0800118999326654e-007 3.859299838579276e-007 8.92974049593445e-007 0 0 -4.0901809269504051e-007</Inertia>
+</MassProperties>
+<GeometryFile name="trem1-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="trem1-2-solid1" uid="trem1-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="trem1-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0014356863866239462</Mass>
+<CenterOfMass>-0.061697204020288339 -0.042428701050822526 -0.020606288676339964</CenterOfMass>
+<Inertia>5.0800118999326685e-007 3.8592998385792728e-007 8.9297404959344479e-007 0 0 -4.0901809269504046e-007</Inertia>
+</MassProperties>
+<GeometryFile name="trem1-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="trem1-3-solid1" uid="trem1-3-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="trem1-3-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0014356863866239464</Mass>
+<CenterOfMass>0.061697204020288332 -0.042428701050822512 0.040393711323660035</CenterOfMass>
+<Inertia>5.0800118999326654e-007 3.859299838579276e-007 8.92974049593445e-007 0 0 4.0901809269504051e-007</Inertia>
+</MassProperties>
+<GeometryFile name="trem1-3-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="trem1-4-solid1" uid="trem1-4-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="trem1-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0014356863866239467</Mass>
+<CenterOfMass>0.061697204020288332 -0.042428701050822512 -0.020606288676339964</CenterOfMass>
+<Inertia>5.0800118999326654e-007 3.8592998385792744e-007 8.9297404959344479e-007 0 0 4.0901809269504046e-007</Inertia>
+</MassProperties>
+<GeometryFile name="trem1-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tubo230_tail-1-solid1" uid="tubo230_tail-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="tubo230_tail-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0095773805328941506</Mass>
+<CenterOfMass>0 -0.0063999999999999977 -0.19725270824021382</CenterOfMass>
+<Inertia>4.9968751918304083e-005 4.9969554702041226e-005 4.620197693623632e-007 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="tubo230_tail-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tubo250-1-solid1" uid="tubo250-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="tubo250-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0095773805328941679</Mass>
+<CenterOfMass>-0.17064399096651009 -0.0063999999999999942 0.098521354120107665</CenterOfMass>
+<Inertia>1.2838702806598058e-005 4.9969554702041389e-005 3.7592068881068555e-005 0 2.1437043849667819e-005 0</Inertia>
+</MassProperties>
+<GeometryFile name="tubo250-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tubo250-2-solid1" uid="tubo250-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="tubo250-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0095773805328942148</Mass>
+<CenterOfMass>0.17064399096651034 -0.0063999999999999968 0.098521354120107762</CenterOfMass>
+<Inertia>1.2838702806598073e-005 4.9969554702041572e-005 3.7592068881068725e-005 0 -2.1437043849667883e-005 0</Inertia>
+</MassProperties>
+<GeometryFile name="tubo250-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tubocarbono-1-solid1" uid="tubocarbono-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="tubocarbono-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00056548667764615916</Mass>
+<CenterOfMass>-0.033999999999999905 -0.01929505797000021 0.0079903044918076486</CenterOfMass>
+<Inertia>3.030419543560865e-007 3.030419543560865e-007 2.8981192229365679e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="tubocarbono-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tubocarbono-4-solid1" uid="tubocarbono-4-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="tubocarbono-4-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00056548667764615916</Mass>
+<CenterOfMass>0.033999999999999905 -0.01929505797000021 0.0079903044918076434</CenterOfMass>
+<Inertia>3.030419543560865e-007 3.030419543560865e-007 2.8981192229365679e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="tubocarbono-4-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tubocarbono-5-solid1" uid="tubocarbono-5-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="tubocarbono-5-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00056548667764615916</Mass>
+<CenterOfMass>-0.083331402967391915 -0.075625204832905094 0.011822056947452407</CenterOfMass>
+<Inertia>3.0304195435608628e-007 3.0304195435608628e-007 2.8981192229365654e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="tubocarbono-5-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="tubocarbono-6-solid1" uid="tubocarbono-6-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="tubocarbono-6-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00056548667764615916</Mass>
+<CenterOfMass>0.083331402967391915 -0.075625204832905094 0.011822056947452376</CenterOfMass>
+<Inertia>3.030419543560865e-007 3.030419543560865e-007 2.8981192229365666e-009 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="tubocarbono-6-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="veio 30-1-solid1" uid="veio 30-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="veio 30-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00021205750411731089</Mass>
+<CenterOfMass>-0.047111482423839786 -0.03268349146096583 0.11902899847244146</CenterOfMass>
+<Inertia>2.4284630378895219e-010 1.6019313543207331e-008 1.6023595154864309e-008 0 0 -2.5993660426457497e-010</Inertia>
+</MassProperties>
+<GeometryFile name="veio 30-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="yaw-1-solid1" uid="yaw-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="yaw-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0040542937982080826</Mass>
+<CenterOfMass>0 0.0043409536853177572 -0.30750000000000005</CenterOfMass>
+<Inertia>3.9060507876096594e-007 4.7288008732962021e-007 1.9282315272164322e-007 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="yaw-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="yaw-2-solid1" uid="yaw-2-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="yaw-2-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.004054293798208086</Mass>
+<CenterOfMass>0.00055592822683291521 0.012888791500704469 -0.29783333333333334</CenterOfMass>
+<Inertia>3.9198542037080293e-007 4.7149974571978328e-007 1.9282315272164301e-007 0 0 1.0567037182538493e-008</Inertia>
+</MassProperties>
+<GeometryFile name="yaw-2-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="zippy1800-1-solid1" uid="zippy1800-1-solid1*:*Default" version="108">
+<ModelUnits mass="kilogram" length="inch"/>
+<PartFile name="zippy1800-1-solid1.sldprt" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.083301875748463886</Mass>
+<CenterOfMass>0 -0.026300000000000004 -0.016029530783278359</CenterOfMass>
+<Inertia>7.9401274047570696e-005 8.4136797820091562e-005 1.1926445023860753e-005 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="zippy1800-1-solid1_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimMechanicsImportXML>

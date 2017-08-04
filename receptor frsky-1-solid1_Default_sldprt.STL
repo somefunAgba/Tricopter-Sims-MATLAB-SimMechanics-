@@ -1,0 +1,86 @@
+solid receptor frsky-1-solid1_Default_sldprt
+   facet normal 1.000000e+000 0.000000e+000 1.387779e-016
+      outer loop
+         vertex 1.081284e+000 6.299213e-001 -2.156859e+000
+         vertex 1.081284e+000 6.299213e-001 -1.172607e+000
+         vertex 1.081284e+000 7.874016e-002 -2.156859e+000
+      endloop
+   endfacet
+   facet normal 1.000000e+000 0.000000e+000 1.387779e-016
+      outer loop
+         vertex 1.081284e+000 7.874016e-002 -2.156859e+000
+         vertex 1.081284e+000 6.299213e-001 -1.172607e+000
+         vertex 1.081284e+000 7.874016e-002 -1.172607e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex -1.084070e+000 6.299213e-001 -2.156859e+000
+         vertex 1.081284e+000 6.299213e-001 -2.156859e+000
+         vertex -1.084070e+000 7.874016e-002 -2.156859e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 -1.000000e+000
+      outer loop
+         vertex -1.084070e+000 7.874016e-002 -2.156859e+000
+         vertex 1.081284e+000 6.299213e-001 -2.156859e+000
+         vertex 1.081284e+000 7.874016e-002 -2.156859e+000
+      endloop
+   endfacet
+   facet normal -1.000000e+000 0.000000e+000 1.387779e-016
+      outer loop
+         vertex -1.084070e+000 6.299213e-001 -1.172607e+000
+         vertex -1.084070e+000 6.299213e-001 -2.156859e+000
+         vertex -1.084070e+000 7.874016e-002 -1.172607e+000
+      endloop
+   endfacet
+   facet normal -1.000000e+000 0.000000e+000 1.387779e-016
+      outer loop
+         vertex -1.084070e+000 7.874016e-002 -1.172607e+000
+         vertex -1.084070e+000 6.299213e-001 -2.156859e+000
+         vertex -1.084070e+000 7.874016e-002 -2.156859e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.081284e+000 6.299213e-001 -1.172607e+000
+         vertex -1.084070e+000 6.299213e-001 -1.172607e+000
+         vertex 1.081284e+000 7.874016e-002 -1.172607e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 0.000000e+000 1.000000e+000
+      outer loop
+         vertex 1.081284e+000 7.874016e-002 -1.172607e+000
+         vertex -1.084070e+000 6.299213e-001 -1.172607e+000
+         vertex -1.084070e+000 7.874016e-002 -1.172607e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 1.000000e+000 0.000000e+000
+      outer loop
+         vertex -1.084070e+000 6.299213e-001 -2.156859e+000
+         vertex -1.084070e+000 6.299213e-001 -1.172607e+000
+         vertex 1.081284e+000 6.299213e-001 -2.156859e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 1.000000e+000 0.000000e+000
+      outer loop
+         vertex 1.081284e+000 6.299213e-001 -2.156859e+000
+         vertex -1.084070e+000 6.299213e-001 -1.172607e+000
+         vertex 1.081284e+000 6.299213e-001 -1.172607e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 -1.000000e+000 0.000000e+000
+      outer loop
+         vertex -1.084070e+000 7.874016e-002 -1.172607e+000
+         vertex -1.084070e+000 7.874016e-002 -2.156859e+000
+         vertex 1.081284e+000 7.874016e-002 -1.172607e+000
+      endloop
+   endfacet
+   facet normal 0.000000e+000 -1.000000e+000 0.000000e+000
+      outer loop
+         vertex 1.081284e+000 7.874016e-002 -1.172607e+000
+         vertex -1.084070e+000 7.874016e-002 -2.156859e+000
+         vertex 1.081284e+000 7.874016e-002 -2.156859e+000
+      endloop
+   endfacet
+endsolid
