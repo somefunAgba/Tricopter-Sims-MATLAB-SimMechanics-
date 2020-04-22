@@ -1,11 +1,13 @@
 # Tricopter-Sims-MATLAB-SimMechanics
 (c.2015) oasomefun[@]futa.edu.ng
 
-This project contains my 2015 B.Eng MATLAB Tricopter simulation files 
+This project contains my 2015 B.Eng MATLAB Tricopter simulation files
 
-**Goal: Simulate a Tricopter using SolidWorks and SimMechanics
+You can find an article on the project at [10.13140/RG.2.1.1274.2001/1](10.13140/RG.2.1.1274.2001/1) 
 
-**Objectives: 
+### Goal: Simulate a Tricopter using SolidWorks and SimMechanics
+
+### Objectives: 
 * Simulate the Tricopter Model
 * Control the Tricopter Model
 
